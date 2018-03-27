@@ -1,3 +1,9 @@
+/* Paragraph without margin*/
+p.nomargin {
+    margin: 0 0 0 0;
+}
+
+
 /* Header logo image */
 .image.centrelogo {
     width: 12%
