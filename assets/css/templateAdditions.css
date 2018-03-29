@@ -3,6 +3,10 @@ p.nomargin {
     margin: 0 0 0 0;
 }
 
+ul.nomargin {
+    margin: 0 0 0 0;
+}
+
 
 /* Header logo image */
 .image.centrelogo {
